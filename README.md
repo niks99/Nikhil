@@ -1,2 +1,2 @@
 # Nikhil
-This is the firstt project
+This is the first project
